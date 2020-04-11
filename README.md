@@ -1,5 +1,5 @@
 # Whoami
-Basic whoami example for Traefik reverse-proxy. Prior to running this container, you should have the Traefik v2 reverse proxy setup on your maschine.
+Basic whoami example for Traefik reverse-proxy. Prior to running this container, you should have the Traefik v2 reverse proxy setup on your machine.
 
 [My Traefik configuration](https://github.com/VakeDomen/traefik_config)
 
